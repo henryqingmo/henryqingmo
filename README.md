@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-Honours student from the University of New South Wales.
+Student from the University of New South Wales.
 
 Major in Computer Science.
 
