@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Yeachan-Heo/Yeachan-Heo/output/github-contribution-grid-snake-dark.svg)
-
+  ![Snake animation dark mode](https://raw.githubusercontent.com/Yeachan-Heo/Yeachan-Heo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![Snake animation light mode](https://raw.githubusercontent.com/Yeachan-Heo/Yeachan-Heo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 </div>
