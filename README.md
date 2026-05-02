@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I’m a student focused on building scalable systems for large language models, with a strong interest in ML systems, AI infrastructure, AI model architecture, and AI agent architecture. I study the intersection of distributed systems, cloud computing, machine learning, model design, and agentic AI systems, with an emphasis on building AI systems that are reliable, efficient, and scalable.
+I have hands-on experience through projects involving distributed system design, cloud platforms, and DevOps practices. This includes building and experimenting with data pipelines, model training workflows, serving setups, and large language model applications. I’ve also worked with LLMs by exploring fine-tuning, evaluation, deployment considerations, architectural trade-offs, and the design of agent workflows involving planning, tool use, memory, and orchestration.
+I’m particularly interested in the systems, model architecture, and agent architecture challenges behind modern AI: scaling training and inference, optimizing performance, designing efficient model architectures, building robust AI agents, and managing end-to-end ML pipelines. I’m actively looking to deepen my understanding and contribute to problems where machine learning, large-scale systems, and agentic AI architecture meet.
 <!--
 **henryqingmo/henryqingmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
